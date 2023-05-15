@@ -18,6 +18,11 @@ npm install
 npm run dev
 ```
 
+### Adding vitest
+```
+npm install -D vitest
+```
+
 ### Adding testing library
 
 ```
